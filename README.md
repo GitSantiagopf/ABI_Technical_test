@@ -1,9 +1,5 @@
 # AB InBev Technical Test – Data Scientist Project
 
-Este repositorio contiene la solución para la prueba técnica para el puesto de Data Scientist en AB InBev. La solución aborda dos retos principales:
-1. **Credit Scoring (Modelo Supervisado)**
-2. **Segmentación de Clientes (Modelo No Supervisado)**
-
 La implementación se realizó de forma modular y orientada a objetos, incluye una documentación detallada de cada paso. Todos los informes, gráficos y directrices se almacenan en la carpeta `docs`.
 
 ## Visión General
